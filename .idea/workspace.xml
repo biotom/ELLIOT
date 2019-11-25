@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14e12d71-8af3-4688-8ebf-a15063ecad0f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.13.1/libexec" />
+  <component name="GoDepProject">
+    <integration-enabled>true</integration-enabled>
+    <exec-path>$PROJECT_DIR$/../../bin/dep</exec-path>
+  </component>
+  <component name="ProjectId" id="1U4EHXJQg49vEhCbDlrd9OZ9uKj" />
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.TestFillerResponse in ELLIOT/service/filler">
+    <configuration name="TestClassifier_Classify in ELLIOT/service/classifier" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ELLIOT" />
+      <working_directory value="$PROJECT_DIR$/service/classifier" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ELLIOT/service/classifier" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestClassifier_Classify$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestFillerResponse in ELLIOT/service/default" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ELLIOT" />
+      <working_directory value="$PROJECT_DIR$/service/default" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ELLIOT/service/default" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestFillerResponse$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestFillerResponse in ELLIOT/service/filler" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ELLIOT" />
+      <working_directory value="$PROJECT_DIR$/service/filler" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="ELLIOT/service/filler" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestFillerResponse$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestFillerResponse in ELLIOT/service/filler" />
+        <item itemvalue="Go Test.TestClassifier_Classify in ELLIOT/service/classifier" />
+        <item itemvalue="Go Test.TestFillerResponse in ELLIOT/service/default" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
