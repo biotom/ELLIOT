@@ -1,3 +1,5 @@
+//go:generate mockgen -package responder -source=responder.go -destination responder_mocks.go
+
 package responder
 
 type Responder struct {}

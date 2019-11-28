@@ -25,8 +25,8 @@ func TestFillerResponse(t *testing.T) {
 		t.Run(tt.desc, func(t *testing.T) {
 			i := 0
 			for i < tt.callTimes{
-				fillerResponse := Respond()
-				require.IsType(t, "hi", fillerResponse())
+				fillerResponse := fillerResponder()
+				require.NotEmpty(t,  fillerResponse())
 				i += 1
 			}
 
